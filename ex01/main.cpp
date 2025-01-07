@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "Iter.hpp"
+#include "iter.hpp"
 
 void printInt(const int &x) {
 	std::cout << x << " ";
